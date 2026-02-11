@@ -28,7 +28,7 @@ SOFTWARE.
 - [Sumário](#sum%C3%A1rio)
 - [Grade Currícular](#curr%C3%ADculo)
 - [Código de Conduta](CODE_OF_CONDUCT.md)
-- [Quem Somos](#Quem Somos)
+- [Quem Somos](#Quem_Somos)
 
 ## Aqueça o conhecimento
 
@@ -41,5 +41,5 @@ Plataforma | Conteúdos
 [LeetCode](https://leetcode.com/)                   | Treinamento intensivo para entrevistas de emprego em big techs. Oferece um vasto banco de problemas, planos de estudo e discussões em fóruns.
 [SQLZoo](https://sqlzoo.net/)                       | Exercícios progressivos de SQL direto no navegador, ideais para fixar consultas e joins.
 
-## Quem Somos
+## Quem_Somos
   - [Gustavo Anthony](https://github.com/Gs2ntana): Fundador
