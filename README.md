@@ -24,31 +24,35 @@ SOFTWARE.
 -->
 
 <p align="center">
-<img width="2605" height="1536" alt="DataLake" src="https://github.com/user-attachments/assets/08ea3af5-1cbd-4ef9-bdf1-518fd24e695a" />
+	<img width="2605" height="1536" alt="DataLake" src="https://github.com/user-attachments/assets/08ea3af5-1cbd-4ef9-bdf1-518fd24e695a" />
 </p>
 <p align="center">
-<h3 align="center">Universidade dos Dados</h3>
+	<h3 align="center">Universidade dos Dados</h3>
+</p>
 <p align="center">
-  Uma especialização em Ciência da Computação!
-	![educacional](https://img.shields.io/badge/conte%C3%BAdo-educacional-blue)
-	![pt-br](https://img.shields.io/badge/idioma-PT--BR-green)
-	![open](https://img.shields.io/badge/open-curriculum-brightgreen)
+  Uma especialização em Ciência da Computação! <br/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/conte%C3%BAdo-educacional-blue" />
+  <img src="https://img.shields.io/badge/idioma-PT--BR-green" />
+  <img src="https://img.shields.io/badge/open-curriculum-brightgreen" />
 </p>
 
 # Conteúdos
 
-- [Para quem é este currículo?](#-para-quem-é-este-currículo)
-- [Grade Currícular](#️-grade-curricular)
-- [Disciplinas](#-disciplinas)
+- [Para quem é este currículo?](#para-quem-é-este-currículo)
+- [Grade Curricular](#grade-curricular)
+- [Disciplinas](#disciplinas)
   - [1ª Etapa — Alicerces](#1ª-etapa)
   - [2ª Etapa — Estrutura e Escala](#2ª-etapa)
   - [3ª Etapa — O Mundo Distribuído](#3ª-etapa)
   - [4ª Etapa — Cloud e Orquestração](#4ª-etapa)
   - [5ª Etapa — Especialização](#5ª-etapa)
-- [Onde Praticar](#️-onde-praticar)
+- [Onde Praticar](#onde-praticar)
 - [Código de Conduta](CODE_OF_CONDUCT.md)
 - [Como Contribuir](CONTRIBUTING.md)
-- [Quem Somos](#-quem-somos)
+- [Quem Somos](#quem-somos)
 
 ## Para quem é este currículo?
 
