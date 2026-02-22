@@ -66,7 +66,7 @@ Este currículo é para quem busca o "porquê" das coisas e a resolução pragm�
 - Você prefere tutoriais mastigados onde tudo funciona de primeira, sem precisar ler documentação ou lidar com debugging.
 - Seu objetivo principal é colecionar certificados de conclusão em vez de construir um portfólio robusto e dominar os fundamentos da computação.
 
-## Grade Currícular
+## Grade Curricular
 
 Você tem liberdade para fazer os cursos na ordem, no lugar e do jeito que preferir — essa é a grande vantagem da flexibilidade. Ainda assim, por motivos didáticos e de organização, é importante considerar os pré-requisitos, pois deixá-los de lado pode trazer desafios ao longo da sua jornada.
 
