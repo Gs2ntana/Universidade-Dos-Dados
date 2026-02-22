@@ -24,7 +24,7 @@ SOFTWARE.
 -->
 
 <p align="center">
-<img src="#">
+<img width="2605" height="1536" alt="DataLake" src="https://github.com/user-attachments/assets/08ea3af5-1cbd-4ef9-bdf1-518fd24e695a" />
 </p>
 <p align="center">
 <h3 align="center">Universidade dos Dados</h3>
@@ -43,7 +43,7 @@ SOFTWARE.
 
 ### Dependências entre assuntos
 
-<img src="" />
+<img width="827" height="345" alt="DependênciasDe" src="https://github.com/user-attachments/assets/8cfd60e4-8159-408b-8697-27a34258c8c1" />
 
 
 ## Aqueça o conhecimento
